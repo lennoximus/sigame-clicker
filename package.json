@@ -1,0 +1,26 @@
+{
+  "name": "sigame-clicker",
+  "version": "0.0.1",
+  "description": "Simple script that allows to trigger reply when the line is shown",
+  "main": "sigame-clicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sigame",
+    "clicker",
+    "macros",
+    "script"
+  ],
+  "author": "lennoximus@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "iohook": "^0.6.6",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.24.0"
+  }
+}
